@@ -4,7 +4,7 @@ Just for playing with rust safe APIs.
 
 **From docs**:
 
-## std::marker::PhantomData
+PhantomData
 
 Zero-sized type used to mark things that “act like” they own a T.
 
